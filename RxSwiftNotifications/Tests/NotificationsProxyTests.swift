@@ -7,8 +7,8 @@
 //
 
 import XCTest
-import RxSwiftNotifications
 import RxSwift
+import RxSwiftNotifications
 
 class NotificationsProxyTests: XCTestCase {
 

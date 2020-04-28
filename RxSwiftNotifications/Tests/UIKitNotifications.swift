@@ -7,9 +7,7 @@
 //
 
 import XCTest
-import RxSwiftNotifications
 import RxSwift
-import UIKit
 
 class UIKitNotificationsTests: XCTestCase {
 
@@ -30,5 +28,4 @@ class UIKitNotificationsTests: XCTestCase {
             })
             .disposed(by: disposeBag)
     }
-
 }

@@ -7,8 +7,8 @@
 //
 
 import Foundation
-import RxSwiftNotifications
 import RxSwift
+import RxSwiftNotifications
 
 struct Person {
     let name : String
